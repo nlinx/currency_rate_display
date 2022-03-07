@@ -61,7 +61,7 @@ const CurrencyRateDisplay: React.FunctionComponent<{}> = (props) => {
                 <VStack w="full" h="full" spacing={10} padding={10}>
                     <VStack spacing={1} w="full" alignItems="flex-start">
                         <Heading size="lg">Currency Rate</Heading>
-                        <Text>Select a currency and amount to convert to USD.</Text>
+                        <Text>Select a currency and amount to convert from USD.</Text>
                         <Divider />
                     </VStack>
                     <CurrencyForm

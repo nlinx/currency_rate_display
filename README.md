@@ -5,8 +5,7 @@ Currency Rate Display is a UI project made to allow users to convert a quantity 
 - Ability to select between some core Cryptocurrencies
 - Ability to input the amount of USD to be converted
 
-<img width="463" alt="Screen Shot 2022-03-07 at 2 46 21 PM" src="https://user-images.githubusercontent.com/10470860/157134828-d06fa850-1cb1-4837-82ad-b6025cd6656f.png">
-
+<img width="463" alt="Screen Shot 2022-03-07 at 3 42 31 PM" src="https://user-images.githubusercontent.com/10470860/157137047-dc03c166-e691-4581-9d35-7240121d40e9.png">
 
 ### Tech Stack
 In order to ease integration of this project into production, the tech stack used is as followed:
